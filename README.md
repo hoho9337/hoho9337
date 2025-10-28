@@ -1,6 +1,6 @@
 
 # Ho Geon Kim
-**Startup Developer at HIO**</br>
+**Startup Fullstack Developer(CIO) at HIO**</br>
 B.Eng. in Software Convergence & B.S. in Math at Kyung Hee University, South Korea
 
 <h3 align="left">📊 GitHub Contribution Chart</h3>
@@ -12,8 +12,8 @@ B.Eng. in Software Convergence & B.S. in Math at Kyung Hee University, South Kor
 
 ## 🎓 Education
 
-**Kyung Hee University**, Seoul, South Korea  
-  M.S. in Software Convergence (GPA: / 4.0)  
+**Kyung Hee University**, Seoul, South Korea
+  B.Eng. in Software Convergence && B.S. in Math
   *Mar. 2019 – Sep. 2025*
   
 ## 🚀 Current Project : HIO (Smart Apartment Solution)
@@ -30,9 +30,7 @@ B.Eng. in Software Convergence & B.S. in Math at Kyung Hee University, South Kor
 
 - 💬 커뮤니티: 공지사항, 주민 투표, 아파트 시설 예약
 
-- [담당 역할]: [예: HIO 플랫폼 백엔드 시스템 설계 및 개발 / IoT 게이트웨이 연동 / 입주민용 모바일 앱 프론트엔드 개발]
-
-- [주요 기술 스택]: [예: Spring Boot, Node.js, React Native, MQTT, AWS/Azure 등]
+- [담당 역할]: [HIO 플랫폼 백엔드 시스템 설계 및 개발 / IoT 게이트웨이 연동 / 입주민용 모바일 앱 프론트엔드 개발]
 
 ## 🛠 Technical Skills
 
