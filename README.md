@@ -1,7 +1,6 @@
 
 # Ho Geon Kim
 **Startup Fullstack Developer(CIO) at HIO**</br>
-B.Eng. in Software Convergence & B.S. in Math at Kyung Hee University, South Korea
 
 <h3 align="left">📊 GitHub Contribution Chart</h3>
 
