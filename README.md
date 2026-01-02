@@ -51,8 +51,8 @@
       </a>
     </td>
     <td>
-        <img src="https://avatars.githubusercontent.com/u/56449156?s=48&v=4" alt="MONAI" width="60" height="60"/><br/>
-        <sub><b>MONAI</b></sub>
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="MONAI" width="60" height="60"/><br/>
+        <sub><b>Docker</b></sub>
       </a>
     </td>
     <td>
