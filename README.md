@@ -1,6 +1,6 @@
 
-# Ho Geon Kim
-**Startup Fullstack Developer(CIO) at HIO**</br>
+# 김호건 [Ho Geon Kim]
+**Startup Fullstack Developer(CIO) at (주)하이오코리아 [HIO Korea Co., LTD.]**</br>
 
 <h3 align="left">📊 GitHub Contribution Chart</h3>
 
