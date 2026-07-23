@@ -67,18 +67,3 @@
     </td>
   </tr>
 </table>    
-
-
----
-## GitHub Status
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=hoho9337&count_private=true&hide=issues,contribs&show_icons=true&theme=dark" width="515" height="150"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoho9337&layout=compact&theme=dark" width="300"/>
-    </td>
-  </tr>
-</table>  
